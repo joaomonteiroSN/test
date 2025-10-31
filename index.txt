@@ -2,3 +2,6 @@ A partir de agora eu vou aprender masi um pouco sobre git
 Agora eu estou na branch um, e vou adicionar mais alguams coisas nesse arquivo
 
 Ótimo agora voltei para minha main e vou fazer uma alteração aqui.
+
+Agora estou começando a entender, vou atualizar a branchUm e depois a main
+Agora vou ficar dois commit na frente da main e vou tentar o merge
