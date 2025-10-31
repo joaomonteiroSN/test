@@ -5,3 +5,5 @@ Agora eu estou na branch um, e vou adicionar mais alguams coisas nesse arquivo
 
 Agora estou começando a entender, vou atualizar a branchUm e depois a main
 Agora vou ficar dois commit na frente da main e vou tentar o merge
+
+AGORA eu estou na minha branch dois, e vou fazer algumas alterações nessa branch
