@@ -14,3 +14,5 @@ agora a adição dois do --amend
 adição 3 com --amend
 
 alteração aqui e ver como vai ficar na branch 3
+
+Fazendo mudanças para entende ro rebase
