@@ -7,3 +7,4 @@ Agora estou começando a entender, vou atualizar a branchUm e depois a main
 Agora vou ficar dois commit na frente da main e vou tentar o merge
 
 AGORA (vou gerar um  kkkk) eu estou na minha branch dois, e vou fazer algumas alterações nessa branch
+Adicionando coisas na branchDois
