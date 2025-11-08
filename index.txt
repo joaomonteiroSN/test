@@ -8,6 +8,7 @@ Agora vou ficar dois commit na frente da main e vou tentar o merge
 
 AGORA (vou gerar um  kkkk) eu estou na minha branch dois, e vou fazer algumas alterações nessa branch
 Adicionando coisas na branchDois
-Alteração que pode conflitar com o --amend da branch 3
-
-fazendo alteração na main. 
+adição na branch 3
+agora uma adição para fazer o --amend
+agora a adição dois do --amend
+adição 3 com --amend
